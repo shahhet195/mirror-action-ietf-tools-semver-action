@@ -70,4 +70,4 @@ runs:
   main: 'dist/index.js'
 branding:
   icon: fast-forward
-  color: red
+  color: green
